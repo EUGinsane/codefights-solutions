@@ -1,4 +1,4 @@
-/*Write a function that returns the sum of two numbers.
+/**Write a function that returns the sum of two numbers.
 
 Example
 
@@ -20,7 +20,7 @@ Guaranteed constraints:
 
 [output] integer
 
-The sum of the two inputs. */
+The sum of the two inputs. **/
 
 int add(int param1, int param2) {
     return (param1 + param2);
